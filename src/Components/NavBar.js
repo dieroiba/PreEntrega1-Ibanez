@@ -13,7 +13,7 @@ function NavBar() {
             <Nav.Link href="#home">Inicio</Nav.Link>
             <Nav.Link href="#features">Artículos</Nav.Link>
             <Nav.Link href="#pricing">Categorías</Nav.Link>
-            <Nav.Link href="#pricing"><CartWidget/></Nav.Link>
+            <Nav.Link href="#carrito"><CartWidget/></Nav.Link>
           </Nav>
         </Container>
       </Navbar>
